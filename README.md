@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GADDOURah
+- 👋 Hi, I’m @GADDOURah "GADDOUR Ahmed"
 - 👀 I’m interested in Embedded Software 
 - 🌱 I’m currently Senior Embedded Software Developer at STMicroelectronics
 - 💞️ I’m looking to collaborate on R&D Projects
